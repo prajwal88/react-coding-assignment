@@ -1,0 +1,11 @@
+.ml-10 {
+    margin-left: 10px;
+}
+.slider-box-container {
+   margin: 0 20px; 
+}
+
+.footer-fix {
+   padding-bottom: 10rem;
+   min-height: calc(100vh - 100px);
+}
